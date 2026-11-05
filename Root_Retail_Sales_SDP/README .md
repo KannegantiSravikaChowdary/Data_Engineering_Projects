@@ -34,7 +34,7 @@ A mid-sized omnichannel retailer receives sales data as CSV files. Reporting is 
 | Gold | Serve business questions | Monthly trends, product performance, data-quality summary |
 
 ## Pipeline Lineage
-![Pipeline lineage](images/pipeline_lineage.png)
+![Pipeline lineage](Images/pipeline_lineage.png)
 
 | Object | Type | Description |
 |--------|------|-------------|
