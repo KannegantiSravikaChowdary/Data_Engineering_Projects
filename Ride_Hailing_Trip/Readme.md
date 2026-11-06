@@ -4,20 +4,19 @@ An end-to-end ride-hailing analytics ETL pipeline built on  Databricks using Lak
 
 ## Table of Contents
 
-- Business Problem
-- Architecture
-- Pipeline Lineage
-- Tech Stack
-- Dataset
-- Repository Structure
-- Layer Details
-- Data Quality Rules
-- Reconciliation
-- How to Run
-- Business Requirements Coverage
-- Dashboard
-- Key Learnings
-- Future Improvements
+- [Business Problem](#business-problem)
+- [Architecture](#architecture)
+- [Pipeline Lineage](#pipeline-lineage)
+- [Tech Stack](#tech-stack)
+- [Dataset](#dataset)
+- [Repository Structure](#repository-structure)
+- [Layer Details](#layer-details)
+- [Data Quality Rules](#data-quality-rules)
+- [Reconciliation](#reconciliation)
+- [How to Run](#how-to-run)
+- [Business Requirements Coverage](#business-requirements-coverage)
+- [Key Learnings](#key-learnings)
+- [Future Improvements](#future-improvements)
 
 ## Business Problem
 
