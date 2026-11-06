@@ -144,5 +144,4 @@ Queries: [`validation/`](validation/)
 - Alerts and monitoring on data-quality metrics
 - Dashboard on top of the Gold layer
 
-## License
-MIT (see `LICENSE`)
+
