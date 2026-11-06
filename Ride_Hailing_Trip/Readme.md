@@ -45,12 +45,10 @@ Ride-hailing companies generate thousands of trip records every month. Raw expor
 
 ## Tech Stack
 
-- Azure Databricks
 - Lakeflow Spark Declarative Pipelines
 - SQL
 - Unity Catalog
 - Delta Lake
-- Power BI
 
 ## Dataset
 
