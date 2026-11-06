@@ -1,6 +1,6 @@
 # Retail Sales Analytics Platform: Medallion Architecture with Lakeflow Spark Declarative Pipelines
 
-An end-to-end retail sales ETL pipeline on **Azure Databricks**, built with **Lakeflow Spark Declarative Pipelines (SQL)** and the **Medallion Architecture** (Bronze → Silver → Gold). It turns a raw, messy sales CSV into trusted, business-ready reporting tables, with data-quality tracking and reconciliation across layers.
+An end-to-end retail sales ETL pipeline on **Databricks**, built with **Lakeflow Spark Declarative Pipelines (SQL)** and the **Medallion Architecture** (Bronze → Silver → Gold). It turns a raw, messy sales CSV into trusted, business-ready reporting tables, with data-quality tracking and reconciliation across layers.
 
 ![Architecture](Images/architecture.png)
 
