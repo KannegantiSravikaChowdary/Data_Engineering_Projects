@@ -61,20 +61,6 @@ Synthetic Ride-Hailing Dataset
 - Cab trip records
 - Data quality issues intentionally introduced
 
-## Repository Structure
-
-Ride_Hailing_Trip/
-├── README.md
-├── Data/
-│   └── ride_trips_raw.csv
-├── ETL-Pipeline/
-│   ├── Bronze/
-│   ├── Silver/
-│   └── Gold/
-├── Images/
-│   ├── architecture.png
-│   ├── lineage.png
-│   └── dashboard.png
 
 ## Layer Details
 
