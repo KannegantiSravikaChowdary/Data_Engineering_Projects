@@ -32,7 +32,7 @@ Ride-hailing companies generate thousands of trip records every month. Raw expor
 
 ## Pipeline Lineage
 
- ![Pipeline lineage](Images/pipeline_lineage.jpeg)
+ ![Pipeline lineage](Images/pipeline-lineage.jpeg)
 
 | Object | Type | Description |
 |---------|---------|-------------|
