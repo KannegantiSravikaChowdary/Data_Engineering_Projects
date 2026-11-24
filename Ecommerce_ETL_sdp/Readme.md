@@ -48,9 +48,8 @@ Raw CSV Files
 │ Aggregates  │
 └─────────────┘
 
-```images/architecture_diagram.png```
 ```
-
+![Architecture](images/Architecture.jpeg)
 ---
 
 ## 🛠️ Technology Stack
