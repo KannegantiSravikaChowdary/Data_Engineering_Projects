@@ -53,6 +53,10 @@ Raw CSV Files
 
 ---
 
+## Pipeline Lineage
+![Pipeline-Lineage](images/pipeline.jpeg)
+
+---
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
