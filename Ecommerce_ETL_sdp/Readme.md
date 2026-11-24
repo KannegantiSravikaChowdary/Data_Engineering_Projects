@@ -47,6 +47,8 @@ Raw CSV Files
 │ Analytics & │
 │ Aggregates  │
 └─────────────┘
+
+```images/architecture_diagram.png```
 ```
 
 ---
@@ -65,26 +67,9 @@ Raw CSV Files
 
 ---
 
-## 📂 Project Structure
 
-```text
-Ecommerce_ETL_SDP/
-│
-├── 01_bronze_layer.py
-├── 02_silver_layer.py
-├── 03_gold_layer.py
-├── validation_notebooks/
-│
-├── documentation/
-│   └── Implementation_Document.pdf
-│
-├── screenshots/
-│   ├── bronze_layer.png
-│   ├── silver_layer.png
-│   └── gold_layer.png
-│
-└── README.md
-```
+
+
 
 ---
 
@@ -279,4 +264,3 @@ Add screenshots of:
 
 ---
 
-for their guidance and support throughout this project.
