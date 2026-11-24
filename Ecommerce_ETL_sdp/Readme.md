@@ -240,19 +240,6 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 📸 Project Screenshots
-
-Add screenshots of:
-
-1. Bronze Table Output
-2. Silver Table Output
-3. Rejected Records
-4. Gold Aggregation Tables
-5. Pipeline Execution Results
-6. Databricks Workspace
-
----
-
 ## 📈 Future Enhancements
 
 - Real-time streaming ingestion
