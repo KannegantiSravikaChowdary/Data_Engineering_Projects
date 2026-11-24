@@ -49,7 +49,8 @@ Raw CSV Files
 └─────────────┘
 
 ```
-![Architecture](images/Architecture.jpeg)
+![Architecture](images/Architecture.png)
+
 ---
 
 ## 🛠️ Technology Stack
